@@ -1,0 +1,10 @@
+2021-02-06 19:10:10.066 [main] INFO  projectDiceGame.Main - Entering number of players
+2021-02-06 19:10:17.594 [main] INFO  projectDiceGame.Main - Number of current players is 3
+2021-02-06 19:10:17.595 [main] INFO  projectDiceGame.ManagerIO - Entering names of players
+2021-02-06 19:10:23.482 [main] INFO  projectDiceGame.Game - Players throw dice, and determining a winner
+2021-02-06 19:10:23.483 [main] INFO  projectDiceGame.Game - Printing out ids,names and scores for each player
+2021-02-06 19:10:23.483 [main] INFO  projectDiceGame.Game - Player's Id: 1, Player's name: Boris, Player's score: 1.
+2021-02-06 19:10:23.483 [main] INFO  projectDiceGame.Game - Player's Id: 2, Player's name: Lev, Player's score: 4.
+2021-02-06 19:10:23.484 [main] INFO  projectDiceGame.Game - Player's Id: 3, Player's name: Mike, Player's score: 4.
+2021-02-06 19:10:23.484 [main] INFO  projectDiceGame.Main - Printing out a winner
+2021-02-06 19:10:23.484 [main] INFO  projectDiceGame.Game - At least two players have the same score, play again !
